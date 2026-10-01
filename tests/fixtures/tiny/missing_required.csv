@@ -1,0 +1,3 @@
+snapshot_date,opportunity_id,opportunity_name,created,deal_amount,customer_segment
+2025-01-01,OPP-001,Acme Platform Expansion,2024-12-01,100000.00,Enterprise
+2025-01-01,OPP-002,Globex Renewal,2024-11-15,50000.00,Mid-Market

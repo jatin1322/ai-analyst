@@ -1,0 +1,41 @@
+snapshot_date,opportunity_id,opportunity_name,created,expected_close_date,sales_stage,deal_amount,annual_recurring_revenue,customer_segment,sales_region,owner,forecast_cat,enterprise_amount
+2025-01-01,OPP-001,Acme Platform Expansion,2024-12-01,2025-03-15,Negotiation,100000.00,100000.00,Enterprise,AMER,U-101,Commit,50000.00
+2025-01-01,OPP-002,Globex Renewal,2024-11-15,2025-05-20,Proposal,50000.00,50000.00,Mid-Market,EMEA,U-102,Best Case,25000.00
+2025-01-01,OPP-003,Initech Rollout,2024-12-20,2025-06-10,Discovery,75000.00,75000.00,Mid-Market,AMER,U-103,Pipeline,37500.00
+2025-01-01,OPP-004,Umbrella Upgrade,2024-12-10,2025-06-20,Qualification,200000.00,200000.00,Enterprise,APAC,U-101,Pipeline,100000.00
+2025-01-01,OPP-005,Soylent Pilot,2024-12-05,2025-03-20,Discovery,40000.00,,SMB,AMER,U-104,Pipeline,20000.00
+2025-01-01,OPP-007,Hooli Migration,2024-10-01,2025-02-28,Negotiation,60000.00,60000.00,SMB,EMEA,U-102,Commit,30000.00
+2025-02-01,OPP-001,Acme Platform Expansion,2024-12-01,2025-03-15,Negotiation,100000.00,100000.00,Enterprise,AMER,U-101,Commit,50000.00
+2025-02-01,OPP-002,Globex Renewal,2024-11-15,2025-05-20,Proposal,50000.00,50000.00,Mid-Market,EMEA,U-102,Best Case,25000.00
+2025-02-01,OPP-003,Initech Rollout,2024-12-20,2025-06-10,Discovery,75000.00,75000.00,Mid-Market,AMER,U-103,Pipeline,37500.00
+2025-02-01,OPP-004,Umbrella Upgrade,2024-12-10,2025-06-20,Qualification,200000.00,200000.00,Enterprise,APAC,U-101,Pipeline,100000.00
+2025-02-01,OPP-005,Soylent Pilot,2024-12-05,2025-03-20,Discovery,40000.00,,SMB,AMER,U-104,Pipeline,20000.00
+2025-02-01,OPP-007,Hooli Migration,2024-10-01,2025-02-28,Negotiation,60000.00,60000.00,SMB,EMEA,U-102,Commit,30000.00
+2025-02-01,OPP-008,Vehement Capital Deal,2025-01-15,2025-04-30,Discovery,90000.00,90000.00,Mid-Market,AMER,U-103,Pipeline,45000.00
+2025-03-31,OPP-001,Acme Platform Expansion,2024-12-01,2025-05-15,Negotiation,100000.00,100000.00,Enterprise,AMER,U-101,Commit,50000.00
+2025-03-31,OPP-002,Globex Renewal,2024-11-15,2025-03-25,Closed Won,50000.00,50000.00,Mid-Market,EMEA,U-102,Commit,25000.00
+2025-03-31,OPP-003,Initech Rollout,2024-12-20,2025-06-10,Discovery,75000.00,75000.00,Enterprise,AMER,U-103,Pipeline,37500.00
+2025-03-31,OPP-004,Umbrella Upgrade,2024-12-10,2025-06-20,Qualification,250000.00,250000.00,Enterprise,APAC,U-101,Pipeline,125000.00
+2025-03-31,OPP-005,Soylent Pilot,2024-12-05,2025-03-20,Discovery,40000.00,,SMB,AMER,U-104,Pipeline,20000.00
+2025-03-31,OPP-007,Hooli Migration,2024-10-01,2025-02-28,Closed Lost,60000.00,60000.00,SMB,EMEA,U-102,Omitted,30000.00
+2025-03-31,OPP-008,Vehement Capital Deal,2025-01-15,2025-04-30,Qualification,90000.00,90000.00,Mid-Market,AMER,U-103,Pipeline,45000.00
+2025-04-01,OPP-001,Acme Platform Expansion,2024-12-01,2025-05-15,Negotiation,100000.00,100000.00,Enterprise,AMER,U-101,Commit,50000.00
+2025-04-01,OPP-002,Globex Renewal,2024-11-15,2025-03-25,Closed Won,50000.00,50000.00,Mid-Market,EMEA,U-102,Commit,25000.00
+2025-04-01,OPP-003,Initech Rollout,2024-12-20,2025-06-10,Discovery,75000.00,75000.00,Enterprise,AMER,U-103,Pipeline,37500.00
+2025-04-01,OPP-004,Umbrella Upgrade,2024-12-10,2025-06-20,Qualification,250000.00,250000.00,Enterprise,APAC,U-101,Pipeline,125000.00
+2025-04-01,OPP-007,Hooli Migration,2024-10-01,2025-02-28,Closed Lost,60000.00,60000.00,SMB,EMEA,U-102,Omitted,30000.00
+2025-04-01,OPP-008,Vehement Capital Deal,2025-01-15,2025-04-30,Qualification,90000.00,90000.00,Mid-Market,AMER,U-103,Pipeline,45000.00
+2025-05-01,OPP-001,Acme Platform Expansion,2024-12-01,2025-05-15,Negotiation,100000.00,100000.00,Enterprise,AMER,U-101,Commit,50000.00
+2025-05-01,OPP-002,Globex Renewal,2024-11-15,2025-03-25,Closed Won,50000.00,50000.00,Mid-Market,EMEA,U-102,Commit,25000.00
+2025-05-01,OPP-003,Initech Rollout,2024-12-20,2025-06-10,Proposal,75000.00,75000.00,Enterprise,AMER,U-103,Best Case,37500.00
+2025-05-01,OPP-004,Umbrella Upgrade,2024-12-10,2025-06-20,Negotiation,250000.00,250000.00,Enterprise,APAC,U-101,Best Case,125000.00
+2025-05-01,OPP-006,Stark Industries POC,2025-04-20,2025-09-15,Proposal,120000.00,120000.00,Enterprise,,U-105,Pipeline,60000.00
+2025-05-01,OPP-007,Hooli Migration,2024-10-01,2025-02-28,Closed Lost,60000.00,60000.00,SMB,EMEA,U-102,Omitted,30000.00
+2025-05-01,OPP-008,Vehement Capital Deal,2025-01-15,2025-04-30,Proposal,90000.00,90000.00,Mid-Market,AMER,U-103,Best Case,45000.00
+2025-06-30,OPP-001,Acme Platform Expansion,2024-12-01,2025-08-15,Negotiation,100000.00,100000.00,Enterprise,AMER,U-101,Commit,50000.00
+2025-06-30,OPP-002,Globex Renewal,2024-11-15,2025-03-25,Closed Won,50000.00,50000.00,Mid-Market,EMEA,U-102,Commit,25000.00
+2025-06-30,OPP-003,Initech Rollout,2024-12-20,2025-06-10,Closed Won,75000.00,75000.00,Enterprise,AMER,U-103,Commit,37500.00
+2025-06-30,OPP-004,Umbrella Upgrade,2024-12-10,2025-06-20,Negotiation,180000.00,180000.00,Enterprise,APAC,U-101,Best Case,90000.00
+2025-06-30,OPP-006,Stark Industries POC,2025-04-20,2025-09-15,Proposal,120000.00,120000.00,Enterprise,,U-105,Pipeline,60000.00
+2025-06-30,OPP-007,Hooli Migration,2024-10-01,2025-02-28,Closed Lost,60000.00,60000.00,SMB,EMEA,U-102,Omitted,30000.00
+2025-06-30,OPP-008,Vehement Capital Deal,2025-01-15,2025-06-25,Closed Won,90000.00,90000.00,Mid-Market,AMER,U-103,Commit,45000.00

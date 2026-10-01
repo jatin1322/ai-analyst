@@ -1,0 +1,5 @@
+snapshot_date,opportunity_id,expected_close_date,sales_stage,deal_amount
+2025-01-01,OPP-001,2025-03-15,Negotiation,100000.00
+2025-01-01,OPP-002,2025-05-20,Proposal,not-a-number
+2025-01-01,OPP-003,not-a-date,Discovery,75000.00
+2025-02-01,OPP-001,2025-03-15,Negotiation,

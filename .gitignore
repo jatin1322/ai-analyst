@@ -1,0 +1,53 @@
+# Python / runtime
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.pyright/
+.coverage
+htmlcov/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+
+# Secrets / config
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials
+credentials.*
+.aws/
+
+# Local databases and generated data. /data/ (repo root) is the default
+# ingestion root: ingested datasets, canonical parquet, registries and grant
+# ledgers. Anchored so it does not also match src/ai_analyst/data/ (source
+# code for the data layer, which must be tracked).
+/data/
+*.duckdb
+*.db
+*.sqlite
+*.sqlite3
+
+# Real-export scratch copies. They hold raw CRM data, including email bodies,
+# and must never enter the repository. The small deterministic fixtures in
+# tests/fixtures/ stay tracked.
+realdata/
+realroot/
+
+# Planner evaluation reports: metadata only, but local.
+evals/reports/
+
+# Local sample data (company exports, schema cards). Never committed.
+/crm_email_activity.parquet
+local_data/
+
+# Agent worktrees (local checkouts of feature branches).
+.claude/worktrees/

@@ -1,0 +1,15 @@
+snapshot_date,opportunity_id,opportunity_name,created,expected_close_date,sales_stage,deal_amount,annual_recurring_revenue,customer_segment,sales_region,owner,forecast_cat
+2025-01-01,B-001,Amount Grows,2024-11-01,2025-03-10,Negotiation,10000.00,10000.00,Enterprise,AMER,U-201,Commit
+2025-01-01,B-002,Amount Shrinks,2024-11-02,2025-03-12,Proposal,20000.00,20000.00,Mid-Market,EMEA,U-201,Best Case
+2025-01-01,B-003,Pulled In Later,2024-11-03,2025-05-10,Discovery,30000.00,30000.00,Enterprise,AMER,U-202,Pipeline
+2025-01-01,B-005,Wins In Quarter,2024-11-05,2025-03-05,Negotiation,50000.00,50000.00,SMB,APAC,U-202,Commit
+2025-01-01,B-006,Loses In Quarter,2024-11-06,2025-03-06,Qualification,60000.00,60000.00,SMB,EMEA,U-203,Pipeline
+2025-01-01,B-007,Slips To Q2,2024-11-07,2025-03-07,Proposal,70000.00,70000.00,Enterprise,AMER,U-203,Best Case
+2025-01-01,B-008,Vanishes Entirely,2024-11-08,2025-03-08,Discovery,80000.00,80000.00,Mid-Market,APAC,U-204,Pipeline
+2025-03-31,B-001,Amount Grows,2024-11-01,2025-03-10,Negotiation,15000.00,15000.00,Enterprise,AMER,U-201,Commit
+2025-03-31,B-002,Amount Shrinks,2024-11-02,2025-03-12,Proposal,12000.00,12000.00,Mid-Market,EMEA,U-201,Best Case
+2025-03-31,B-003,Pulled In Later,2024-11-03,2025-03-20,Negotiation,30000.00,30000.00,Enterprise,AMER,U-202,Commit
+2025-03-31,B-004,Created In Quarter,2025-02-05,2025-03-25,Proposal,40000.00,40000.00,Enterprise,EMEA,U-204,Best Case
+2025-03-31,B-005,Wins In Quarter,2024-11-05,2025-03-05,Closed Won,50000.00,50000.00,SMB,APAC,U-202,Commit
+2025-03-31,B-006,Loses In Quarter,2024-11-06,2025-03-06,Closed Lost,60000.00,60000.00,SMB,EMEA,U-203,Omitted
+2025-03-31,B-007,Slips To Q2,2024-11-07,2025-06-15,Proposal,70000.00,70000.00,Enterprise,AMER,U-203,Best Case
